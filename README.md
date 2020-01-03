@@ -39,7 +39,8 @@ Mcmod.info file (Completed)!
 Time will show :)
 
  
-Download: [Cursed Forge](https://www.curseforge.com/minecraft/mc-mods/moburnables-mod/files) 
+# Download: 
+[Cursed Forge](https://www.curseforge.com/minecraft/mc-mods/moburnables-mod/files) 
  
 
 # Installation:
