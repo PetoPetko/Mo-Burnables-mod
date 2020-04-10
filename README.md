@@ -45,7 +45,7 @@ Time will show :)
 
 # Installation:
 
-Download and install forge!
+Download and install [forge](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.7.10.html)!
 
 Download library [java-json](http://www.java2s.com/Code/Jar/j/Downloadjavajsonjar.htm) and mod itself from link above!
 
