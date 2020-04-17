@@ -15,11 +15,15 @@ Only similar genre mods might be a problem.
 # Content:
 
 Ability to make blocks burnable.
+
 AI that can automatically finds out with block should be burnable!
+
 New fire mechanics like smoking blocks, falling burning blocks and more!
 
 Highly reducing chance to finding floating blocks afterburn!
+
 Config file!
+
 Entity self extinguishing logic like in 1.9+
 
 Extinguishing mechanics!
