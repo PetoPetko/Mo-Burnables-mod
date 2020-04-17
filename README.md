@@ -1,3 +1,5 @@
+# Mod:
+
 Mo'Burnables is mod that is changing vanilla fire behavior while adding some new mechanics to game.
 
 And also allows you to make whatever existing block burnable using some kind of script in JSON!
