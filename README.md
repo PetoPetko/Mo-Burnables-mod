@@ -63,4 +63,4 @@ Open downloaded zip and copy and paste .jar file in to your mod directory (%appd
 
 2. Do not think about downloading older version of mod than 1.3 because there is a lot of bugs! Always download the latest!
 
-3. Also it will be nice to have some form of feedback!
+3. Also it will be nice to have some form of feedback! But use main page cursed forge.
