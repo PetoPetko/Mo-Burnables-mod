@@ -40,7 +40,7 @@ Extinguish mechanics (Completed)!
 
 Mcmod.info file (Completed)!
 
-Version for mc 1.12
+Version for mc 1.12.X
 
 Time will show :)
 
@@ -63,4 +63,6 @@ Open downloaded zip and copy and paste .jar file in to your mod directory (%appd
 
 2. Do not think about downloading older version of mod than 1.3 because there is a lot of bugs! Always download the latest!
 
-3. Also it will be nice to have some form of feedback! But use main page cursed forge.
+3. Yes of course you can use this mod in Modpacks. It was designed to...
+
+4. Also it will be nice to have some form of feedback!
