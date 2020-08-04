@@ -51,18 +51,18 @@ Time will show :)
 
 # Installation:
 
-Download and install [forge](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.7.10.html)!
+Download and install [forge](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.7.10.html) and run MC with forge as game version!
 
 Download library [java-json](http://www.java2s.com/Code/Jar/j/Downloadjavajsonjar.htm) and mod itself from link above!
 
-Open downloaded zip and copy and paste .jar file in to your mod directory (%appdata%/.minecraft/mods) together with java-json!
+Copy and paste downloaded .jar files into your mod directory (%appdata% then .minecraft/mods)!
 
 # Notes:
 
-1. This mod itself is not increasing fire spread speed or making fire more aggressive (it did before v1.3). It is just adding more burnable blocks!
+1. This mod itself is not increasing fire spread speed or making fire more aggressive (it did before v1.3).
 
-2. Do not think about downloading older version of mod than 1.3 because there is a lot of bugs! Always download the latest!
+2. Do not think about downloading older version of mod than 1.3 because there is a lot of bugs! Always [download the latest](https://www.curseforge.com/minecraft/mc-mods/moburnables-mod/files)!
 
 3. Yes of course you can use this mod in Modpacks. It was designed to...
 
-4. Also it will be nice to have some form of feedback!
+4. Also it will be nice to have some form of <i>feedback<i>!
